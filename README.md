@@ -40,4 +40,3 @@ Matplotlib & Seaborn for insightful visualizations.
 
 This analysis delivers valuable insights to enhance decision-making for Zomato, particularly in understanding customer preferences, optimizing offers, and improving restaurant service strategies based on real data. By using data-driven approaches, this project showcases my ability to derive meaningful conclusions that can benefit business operations.
 
-![1000001269 (2)](https://github.com/user-attachments/assets/a64023b2-c0bd-45a7-8211-dd0cd96337d0)
