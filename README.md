@@ -4,13 +4,21 @@ This project is a comprehensive exploratory data analysis (EDA) of Zomato's rest
 
 ## Tools Used:
 Python for data manipulation and analysis.
+
 Pandas for efficient data wrangling.
+
 Matplotlib & Seaborn for insightful visualizations.
 
 ## Key Questions Answered:
 Customer Preferences: What type of restaurant do the majority of customers order from?
+
 Customer Engagement: How many votes has each type of restaurant received from customers?
+
 Restaurant Ratings: What are the ratings that the majority of restaurants have received?
+
 Spending Patterns: What is the average spending per order for couples who primarily order food online?
+
 Online vs Offline: Which mode (online or offline) has received the highest ratings?
+
 Offline Order Trends: Which type of restaurant receives more offline orders, enabling Zomato to provide targeted offers to those customers?
+
