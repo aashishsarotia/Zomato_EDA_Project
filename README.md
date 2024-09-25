@@ -59,7 +59,7 @@ Interestingly, online orders receive better ratings than offline orders, indicat
 #### •	Offline Order Trends: 
 Dining restaurants receive more offline orders compared to cafes, which see a higher volume of online orders. This insight can help Zomato create targeted offers to encourage more offline engagement at dining restaurants and boost online orders at cafes.
 
-## 6. Recommendations
+## 5. Recommendations
 
 #### •	Optimize Promotions for Dining Restaurants: 
 Since dining restaurants receive more offline orders, Zomato should focus on offering attractive deals and offers for in-person dining experiences. These could include table booking discounts or special in-house promotions.
