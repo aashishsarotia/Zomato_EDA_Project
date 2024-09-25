@@ -2,7 +2,8 @@
 
 This project is a comprehensive exploratory data analysis (EDA) of Zomato's restaurant data, focusing on customer preferences, ratings, and restaurant performance, all performed using Jupyter Notebook. The dataset includes crucial information such as online ordering availability, table booking options, restaurant ratings, votes, cost for two, and restaurant type. By answering targeted business questions, this analysis provides actionable insights to optimize customer experiences and restaurant strategies.
 
-### Tools Used:
+## Tools Used:
+
 Python for data manipulation and analysis.
 
 Pandas for efficient data wrangling.
@@ -10,17 +11,18 @@ Pandas for efficient data wrangling.
 Matplotlib & Seaborn for insightful visualizations.
 
 ## Key Questions Answered:
-Customer Preferences: What type of restaurant do the majority of customers order from?
 
-Customer Engagement: How many votes has each type of restaurant received from customers?
+1. Customer Preferences: What type of restaurant do the majority of customers order from?
 
-Restaurant Ratings: What are the ratings that the majority of restaurants have received?
+2. Customer Engagement: How many votes has each type of restaurant received from customers?
 
-Spending Patterns: What is the average spending per order for couples who primarily order food online?
+3. Restaurant Ratings: What are the ratings that the majority of restaurants have received?
 
-Online vs Offline: Which mode (online or offline) has received the highest ratings?
+4. Spending Patterns: What is the average spending per order for couples who primarily order food online?
 
-Offline Order Trends: Which type of restaurant receives more offline orders, enabling Zomato to provide targeted offers to those customers?
+5. Online vs Offline: Which mode (online or offline) has received the highest ratings?
+
+6. Offline Order Trends: Which type of restaurant receives more offline orders, enabling Zomato to provide targeted offers to those customers?
 
 
 ## Sample Data:
