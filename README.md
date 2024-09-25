@@ -22,22 +22,22 @@ This project utilizes Jupyter Notebook to explore and analyze the data, providin
 The analysis addressed six key business questions:
 
 #### •	Customer Preferences:
-o	Dining restaurants are preferred by a larger number of individuals.
+Dining restaurants are preferred by a larger number of individuals.
 
 #### •	Customer Engagement:
-o	Dining restaurants have received the maximum votes from customers.
+Dining restaurants have received the maximum votes from customers.
 
 #### •	Restaurant Ratings:
-o	The majority of restaurants received ratings ranging from 3.5 to 4.
+The majority of restaurants received ratings ranging from 3.5 to 4.
 
 #### •	Spending Patterns:
-o	The majority of couples prefer restaurants with an approximate cost of 300 rupees for two people.
+The majority of couples prefer restaurants with an approximate cost of 300 rupees for two people.
 
 #### •	Online vs Offline:
-o	Offline orders received lower ratings in comparison to online orders.
+Offline orders received lower ratings in comparison to online orders.
 
 #### •	Offline Order Trends:
-o	Dining restaurants primarily accept offline orders, whereas cafes primarily receive online orders. This suggests that customers prefer in-person dining at restaurants, but prefer online ordering at cafes.
+Dining restaurants primarily accept offline orders, whereas cafes primarily receive online orders. This suggests that customers prefer in-person dining at restaurants, but prefer online ordering at cafes.
 
 ## 4. Insights Deep Dive
 
