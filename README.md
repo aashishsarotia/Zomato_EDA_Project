@@ -22,10 +22,12 @@ This project utilizes Jupyter Notebook to explore and analyze the data, providin
 The analysis addressed six key business questions:
 
 #### •	Customer Preferences:
-Dining restaurants are preferred by a larger number of individuals.
+Dining restaurants are preferred by a larger number of individuals.![Screenshot 2024-09-25 171542](https://github.com/user-attachments/assets/0f13a19d-bd0f-4b6a-af33-46f38a1e6f81)
+
 
 #### •	Customer Engagement:
-Dining restaurants have received the maximum votes from customers.
+Dining restaurants have received the maximum votes from customers.![Screenshot 2024-09-25 171701](https://github.com/user-attachments/assets/569da39f-00d3-47e2-afa6-7f5f2aba5521)
+
 
 #### •	Restaurant Ratings:
 The majority of restaurants received ratings ranging from 3.5 to 4.
