@@ -39,6 +39,9 @@ Offline orders received lower ratings in comparison to online orders.
 #### •	Offline Order Trends:
 Dining restaurants primarily accept offline orders, whereas cafes primarily receive online orders. This suggests that customers prefer in-person dining at restaurants, but prefer online ordering at cafes.
 
+![Presentation1](https://github.com/user-attachments/assets/3b2c57d8-38a7-4182-92dd-dc1e5fade62e)
+
+
 ## 4. Insights Deep Dive
 
 #### •	Customer Preferences:
